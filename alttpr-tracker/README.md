@@ -1,4 +1,8 @@
-Hi I made a tracker for playing this video game. It's kind of in beta, but it's mostly working, I think! Try it out!
+# A Link to the Past Randomizer Tracker
+Found online at [https://bdjeffyp.github.io/alttpr-tracker](https://bdjeffyp.github.io/alttpr-tracker)
+This tracker is forked off from ItsSupercar's tracker. I noticed that it didn't include locations for the Take Any caves on the map when Retro mode is enabled. My fork adds these locations as well as the logic for when they should be accessible.
+Since ItsSupercar has not been active on the ALttPR Discord lately, I decided to build on their work and continue this great tracker! If you find any issues with the tracker, please let me know on the Discord!
+Everything below is from the original project's README...
 
 ## INSTALLATION
 
@@ -33,7 +37,7 @@ Icons on the map are displayed in various colours. Here's what they mean:
 
 - The colour of the large circle tells you whether the boss is beatable, unbeatable, uncertain, or requires traversal of dark rooms (same as legend above).
 - The colour of the numbered circle tells you whether the next item in the dungeon is available, unavailable, or uncertain. The number indicates how many items total are left in the dungeon.
-- The colour and number of the small dots represents ALL the remaining items and the state of their availabiliity.
+- The colour and number of the small dots represents ALL the remaining items and the state of their availability.
 
 
 ## MODE-SPECIFIC INSTRUCTIONS
